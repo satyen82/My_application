@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Suite">
+  <test thread-count="5" parallel="none" name="Test">
+    <classes>
+    <class name="scripts.Home"/>
+    <class name="scripts.AddToBag"/>   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
