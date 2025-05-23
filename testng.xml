@@ -4,6 +4,7 @@
   <test thread-count="5" parallel="none" name="Test">
     <classes>
     <class name="scripts.Home"/>
+
       
     <class name="scripts.AddToBag"/>   
     </classes>
