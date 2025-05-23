@@ -5,7 +5,6 @@
     <classes>
     <class name="scripts.Home"/>
 
-      
     <class name="scripts.AddToBag"/>   
     </classes>
   </test> <!-- Test -->
