@@ -6,7 +6,8 @@
     <class name="scripts.Home"/>
 
       
-    <class name="scripts.AddToBag"/>   
+    
+      <class name="scripts.AddToBag"/>   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
