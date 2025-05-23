@@ -4,10 +4,9 @@
   <test thread-count="5" parallel="none" name="Test">
     <classes>
     <class name="scripts.Home"/>
-
-      #abc456
-    
       <class name="scripts.AddToBag"/>   
+#xyz123
+    <class name="scripts.AddToBag"/>   
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
