@@ -18,7 +18,6 @@ public class Hero extends BaseTest{
 	public static void home() throws InterruptedException { 	
 	HeroPage lp = new HeroPage (driver);
 	lp.homie();
-	//
 	}
 
 }
