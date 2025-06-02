@@ -17,5 +17,4 @@ public class Login extends BaseTest{
 	LoginPage lp = new LoginPage (driver);
 	lp.login("student","Password123");
 	}
-
 }
